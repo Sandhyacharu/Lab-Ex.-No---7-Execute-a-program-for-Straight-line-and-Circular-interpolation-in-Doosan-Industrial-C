@@ -54,6 +54,3 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 
 ### Results 
 A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
-
-
- 
